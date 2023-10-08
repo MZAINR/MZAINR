@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 only example:
-# Halo semua! 
+# Halo semua! (Ini adalah contoh belaka) 
 Perkenalkan nama saya **Muhammad Zain Rizqulloh**.\
 Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).\
 Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).\
